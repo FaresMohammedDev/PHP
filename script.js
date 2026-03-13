@@ -33,7 +33,8 @@ const members = [
     { name: "سيف محمد", class: "W3", roles: ["داعم مهني"], image: "img/seif.jpeg" },
     { name: "عمر ياسر الكومي", class: "W4", roles: ["وسيط"], image: "img/komy.jpeg" },
     { name: "عمر محمد محمد", class: "J2", roles: ["سفير"], image: "img/b7r.jpeg" },
-    { name: "عمار هاني", class: "S1", roles: ["سفير"], image: "img/maro.jpeg" }
+    { name: "عمار هاني", class: "S1", roles: ["سفير"], image: "img/maro.jpeg" },
+    { name: "سما محمد ذكي", class: "J4", roles: ["سفير"], image: "img/samaZ.jpeg" }
 ];
 
 const rolesInfo = {
